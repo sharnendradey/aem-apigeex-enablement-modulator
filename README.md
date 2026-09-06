@@ -1,4 +1,4 @@
-# System Design Document: Apigee X Enablement Agent
+# Apigee X Enablement Agent
 
 ## 1. Introduction
 The **Apigee X Enablement Agent** is an AI-powered automation framework designed to streamline the complex provisioning and networking setup required for Google Cloud's Apigee X. This document outlines the architectural design, workflow states, and technical requirements necessary to implement a four-stage, Human-In-The-Loop (HITL) enablement pipeline.
